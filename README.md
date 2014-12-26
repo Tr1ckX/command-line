@@ -1,4 +1,4 @@
-PreCourse Challanges 1.
+PreCourse Challange 1.
 ===================
 <div>
 <img src = https://img.shields.io/badge/%20-CommandLine%20-yellowgreen.svg>
